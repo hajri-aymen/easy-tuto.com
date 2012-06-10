@@ -1,0 +1,12 @@
+#Bootstrop
+app/Bootstrop*
+
+
+Symfony directories
+Vendor/*
+*/logs/*
+web/uploods/*
+web/bundles/*
+
+# Configuration files
+app/config/parameters.ini
